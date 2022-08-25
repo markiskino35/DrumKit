@@ -12,8 +12,10 @@ h1 {
 }
 
 footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
 }
 
 .w {
